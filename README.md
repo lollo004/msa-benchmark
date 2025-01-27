@@ -5,7 +5,7 @@ Here, you can find details about the code. For more details, refer to the Resear
 - outputs: MSA alignements calculated by different algorithms.
 - scores: Total evaluation of result and execution resources for each algorithm.
 - csv: All tuples scores collected from execution time.
-- run_benchmark.py: Script to run locally benchmark (Requires all binaries installed).
+- run_benchmark.py: Script to run locally benchmark (Requires all binaries installed - do not try to run locally!).
 - Dockerfile: Docker enviroment used for testing. Ubuntu system.
 
 ## Process:
