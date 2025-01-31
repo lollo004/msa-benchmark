@@ -8,6 +8,13 @@ Here, you can find details about the code. For more details, refer to the Resear
 - run_benchmark.py: Script to run locally benchmark (Requires all binaries installed - do not try to run locally!).
 - Dockerfile: Docker enviroment used for testing. Ubuntu system.
 
+## Results
+![SP SCORE](https://github.com/lollo004/msa-benchmark/blob/main/graphs/sp_score_comparison.png)
+![TC SCORE](https://github.com/lollo004/msa-benchmark/blob/main/graphs/tc_score_comparison.png)
+![Memory Usage](https://github.com/lollo004/msa-benchmark/blob/main/graphs/tc_score_comparison.png)
+![Execution time](https://github.com/lollo004/msa-benchmark/blob/main/graphs/execution_time_comparison.png)
+![Radio chart](https://github.com/lollo004/msa-benchmark/blob/main/graphs/radar_chart.png)
+
 ## Process:
 1. We downloaded all the MSA algorithms official implementations.
 2. We downloaded BaliBASE4 from the official website.
