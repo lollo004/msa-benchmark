@@ -11,7 +11,7 @@ Here, you can find details about the code. For more details, refer to the Resear
 ## Results
 ![SP SCORE](https://github.com/lollo004/msa-benchmark/blob/main/graphs/sp_score_comparison.png)
 ![TC SCORE](https://github.com/lollo004/msa-benchmark/blob/main/graphs/tc_score_comparison.png)
-![Memory Usage](https://github.com/lollo004/msa-benchmark/blob/main/graphs/tc_score_comparison.png)
+![Memory Usage](https://github.com/lollo004/msa-benchmark/blob/main/graphs/usage_memory_comparison.png)
 ![Execution time](https://github.com/lollo004/msa-benchmark/blob/main/graphs/execution_time_comparison.png)
 ![Radio chart](https://github.com/lollo004/msa-benchmark/blob/main/graphs/radar_chart.png)
 
